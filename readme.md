@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python3 run.py
 ```
 
-## 📜 Catatan
+## 📄 Catatan
 
 - Alat ini hanya untuk tujuan edukasi dan penelitian.
 - Jangan gunakan alat ini untuk menyerang akun milik orang lain.
