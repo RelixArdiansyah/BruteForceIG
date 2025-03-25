@@ -49,5 +49,10 @@ python3 run.py
 - Jangan gunakan alat ini untuk menyerang akun milik orang lain.
 - Gunakan secara bertanggung jawab untuk memahami dan meningkatkan keamanan.
 
+## 🤝 Kontribusi
+Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin membantu mengembangkan alat ini, silakan buka [Issues](https://github.com/KenXinDev/BruteForceIG/issues) atau buat [Pull Requests](https://github.com/KenXinDev/BruteForceIG/pulls).
+
+## 📜 Lisensi
+Proyek ini bukan open source. Semua hak cipta dari kode sumber dimiliki oleh pengembang. Anda diberikan hak untuk menggunakan alat ini, tetapi tidak diperbolehkan untuk memodifikasi, mendistribusikan, atau menjual ulang kode sumber tanpa izin.
 
 
