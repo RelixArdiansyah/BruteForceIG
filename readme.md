@@ -49,11 +49,5 @@ python3 run.py
 - Jangan gunakan alat ini untuk menyerang akun milik orang lain.
 - Gunakan secara bertanggung jawab untuk memahami dan meningkatkan keamanan.
 
-## 📧 Kontak
 
-Jika Anda memiliki pertanyaan atau ingin berdiskusi, silakan hubungi saya melalui [WhatsApp](https://wa.me/6285175306410).
-
----
-
-💡 **Catatan:** Jika kamu ingin menyesuaikan README ini dengan lebih banyak detail, beri tahu saya!
 
