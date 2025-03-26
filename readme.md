@@ -46,7 +46,6 @@ python3 run.py
 ## 📄 Catatan
 
 - Alat ini hanya untuk tujuan edukasi dan penelitian.
-- Jangan gunakan alat ini untuk menyerang akun milik orang lain.
 - Gunakan secara bertanggung jawab untuk memahami dan meningkatkan keamanan.
 
 ## 🤝 Kontribusi
